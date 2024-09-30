@@ -13,6 +13,7 @@
   3)한 칸이라도 null이 있는 상태라면 isDraw=""이고 else는 "It's a DRAW!"
 
   4) isDraw가 true일때 무승부, false일때 표시하지 X
+     
 
 2. map() 사용할 때에는 무조건 return 할 것!!
 
