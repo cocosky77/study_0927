@@ -2,9 +2,9 @@
 
 처음부터 시간여행 구현까지 새로운 파일에 다시 만들어보기
 
-실수한 부분
+## 실수한 부분
 
-## 함수들의 선언 및 코딩 순서
+#### 함수들의 선언 및 코딩 순서
 
 isDraw = true; 선언하기
 
@@ -15,6 +15,6 @@ winner의 switch case문(null일때 Next turn 보여주기, default로 winner �
 isDraw가 true일때 무승부, false일때 표시하지 X
      
 
-## map() 사용할 때에는 무조건 return 할 것!!
+#### map() 사용할 때에는 무조건 return 할 것!!
 
 시간여행 버튼 구현시 map() 사용하였지만 return()을 하지 않아서 화면에 나오지 않았음
